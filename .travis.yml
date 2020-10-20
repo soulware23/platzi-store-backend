@@ -20,6 +20,6 @@ deploy:
   skip-cleanup: true
   keep-history: true
   api_key: 73283b1a-8694-4652-ae27-9f0ad912cbfc
-  app: soul_store_backend
+  app: soul-store-backend
   on:
     repo: soulware23/platzi-store-backend
